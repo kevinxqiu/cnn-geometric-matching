@@ -1,0 +1,17 @@
+**/.ipynb_checkpoints
+code/.ipynb_checkpoints/
+worm_data/h5_data/240/*.jpg
+worm_data/h5_data/512/*.jpg
+worm_data/h5_data/*.h5
+worm_data/video/frames/*.jpg
+worm_data/video/frames/aligned_to_frame_500/*
+worm_data/video/frames/aligned_to_frame_508/*
+worm_data/video/frames/alignedprevious/*
+*__pycache__
+*augmented/NOTPRETRAINED/
+worm_data/h5_data/240/*
+worm_data/h5_data/512/*
+code/trained_models/baseline_resnet/affine_resnet_basefr.pth.tar
+code/trained_models/baseline_resnet/tps_resnet_basefr.pth.tar
+code/trained_models/baseline_resnet.zip
+code/trained_models/ALLPARAMS_tb_logs/events.out.tfevents.1608116664.RYTW-ACER.4932.0
